@@ -1,0 +1,39 @@
+// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+
+//@version=5
+strategy("Carmelita Adelina Leandro by Professor Theta", overlay=true)
+
+vwap = ta.vwap(close)
+ema21 = ta.ema(close, 9)
+
+period = 9
+
+tema1 = ta.ema(close,period)
+tema2 = ta.ema(tema1, period)
+tema3 = ta.ema(tema2, period)
+
+tema = ta.ema(tema3, period)
+
+preBarOverlapVWAPCrossover = vwap[1] >= open[1] and vwap[1] <= close[1] 
+preBarOverlapVWAPCrossunder = vwap[1] <= open[1] and vwap[1] >= close[1] 
+
+vwapCrossOverCandleOverlap =  preBarOverlapVWAPCrossover or preBarOverlapVWAPCrossunder
+
+longCondition = ta.crossover(open, vwap)  // tes  sss
+shortCondition = ta.crossunder(open, vwap)
+
+longBarEntryCondition = open >= vwap
+shortBarEntryCondition = open <= vwap
+
+isRising = ta.rising(close, 3)
+isFalling = ta.falling(close, 3)
+
+
+longPlotCondition = longCondition and vwapCrossOverCandleOverlap and longBarEntryCondition and ema21 < close and isRising
+shortPlotCondition = shortCondition and vwapCrossOverCandleOverlap and shortBarEntryCondition and ema21 > close and isFalling
+
+plotshape(series=longPlotCondition, title="Trigger Candle", style=shape.triangleup, location=location.belowbar, color=color.green, text="LONG", size=size.small)
+plotshape(series=shortPlotCondition, title="Trigger Candle", style=shape.triangledown, location=location.abovebar, color=color.red, text="SHORT", size=size.small)
+
+longConditionMissed = ta.crossover(open, vwap) 
+shortConditionMissed = ta.crossunder(open, vwap)
