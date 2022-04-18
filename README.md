@@ -1,4 +1,4 @@
-# intraday_trading_view_indicator
+# Trading View Indicator for Intraday Buy/Sell Signal
 
 How to use:
 
