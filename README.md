@@ -6,7 +6,7 @@ Note: This is to be used for Intraday signals only.
 
 1. Open Nifty or Bank Nifty Futures chart (this indicator only works with Futures chart. Wont work on the Spot)
 2. Open Pine Editor (from the bottom tab)
-3. Paste the code from indicator.txt to Pine Editor
+3. Paste the code from indicator_code.txt to Pine Editor
 4. Click on Add to Chart. (You can also save this indicator)
 5. Change the time frame to 5 minutes. 
 6. Now you can see the Buy/See signal on the chart
@@ -22,6 +22,7 @@ Idea of sharing this indicator is to show you that simple things work. Many indi
 "Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime"
 
 As any queries/clarification on Twitter:
+
 https://twitter.com/ProfTheta21
 
 Youtube:
