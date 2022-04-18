@@ -23,6 +23,9 @@ Idea of sharing this indicator is to show you that simple things work. Many indi
 
 "Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime"
 
+I would encourage you to learn Pine Script, so that you can test your strategis/create signals for your own use.
+
+
 For any queries/clarifications, ask me on Twitter:
 
 https://twitter.com/ProfTheta21
