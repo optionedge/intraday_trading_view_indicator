@@ -21,7 +21,7 @@ Idea of sharing this indicator is to show you that simple things work. Many indi
 
 "Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime"
 
-As any queries/clarification on Twitter:
+For any queries/clarifications, ask me on Twitter:
 
 https://twitter.com/ProfTheta21
 
