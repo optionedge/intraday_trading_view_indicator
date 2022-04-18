@@ -30,4 +30,6 @@ https://t.co/oAWPDlUqze
 
 
 Disclaimer:
-I am not responsible for any profit/loss you might incur from using this inidcator. Please use discretion while using this indicator. Please strictly follow risk management for any trade that you take. 
+1. I am not responsible for any profit/loss you might incur from using this inidcator. Please use discretion while using this indicator. 
+2. Please strictly follow risk management for any trade that you take.
+3. Not all indicators work 100%. At times you may get false signals. Please strictly use SL for such days. When this indicator catch a trend, you can ride it, using previous 1 or 2 candle's low/high as trailing SL. 
