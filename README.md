@@ -9,7 +9,7 @@ Note: This is to be used for Intraday signals only.
 3. Paste the code from indicator_code.txt to Pine Editor
 4. Click on Add to Chart. (You can also save this indicator)
 5. Change the time frame to 5 minutes. 
-6. Now you can see the Buy/See signal on the chart
+6. Now you can see the Buy/Sell signal on the chart
 7. This indicator does not give too many signals (for some days, there may not be any signals at all). 
 8. You can set the SL on the previous candle's High/Low or based on your positin sizing.
 9. For target, keep trailing with previous candles's High/Low
