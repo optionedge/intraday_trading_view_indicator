@@ -13,6 +13,7 @@ Note: This is to be used for Intraday signals only.
 7. This indicator does not give too many signals (for some days, there may not be any signals at all). 
 8. You can set the SL on the previous candle's High/Low or based on your positin sizing.
 9. For target, keep trailing with previous candles's High/Low
+10. This is a non-repainting signal ie signal generates only on candle closing (based on the time frame selected) and once signal is generated it will stay there. 
 
 Indicator Name: 
 
