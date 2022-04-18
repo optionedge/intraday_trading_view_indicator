@@ -15,6 +15,7 @@ Note: This is to be used for Intraday signals only.
 9. For target, keep trailing with previous candles's High/Low
 
 Indicator Name: 
+
 Name of the signal is random "Carmelita Adelina Leandro" to signify that name does not matter at all. You can set any name as per your likings.  
 
 Idea of sharing this indicator is to show you that simple things work. Many indicator that people are selling now a days are derivaties of the same indicators available free of cost in TradingView. Do not fall pray sunch fancy indicators. Use this code a base and build your ideas on top of it. 
@@ -26,9 +27,11 @@ For any queries/clarifications, ask me on Twitter:
 https://twitter.com/ProfTheta21
 
 Youtube:
+
 https://t.co/oAWPDlUqze
 
 This is how indicator looks like:
+
 https://twitter.com/ProfTheta21/status/1516095748886380546
 
 
