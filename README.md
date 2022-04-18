@@ -28,6 +28,9 @@ https://twitter.com/ProfTheta21
 Youtube:
 https://t.co/oAWPDlUqze
 
+This is how indicator looks like:
+https://twitter.com/ProfTheta21/status/1516095748886380546
+
 
 Disclaimer:
 1. I am not responsible for any profit/loss you might incur from using this inidcator. Please use discretion while using this indicator. 
