@@ -38,6 +38,10 @@ This is how indicator looks like:
 
 https://twitter.com/ProfTheta21/status/1516095748886380546
 
+Example of Indicator catching the trend nicely (with initial false signal). 
+
+https://twitter.com/ProfTheta21/status/1516342300963590147
+
 
 Disclaimer:
 1. I am not responsible for any profit/loss you might incur from using this inidcator. Please use discretion while using this indicator. 
